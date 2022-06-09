@@ -1,2 +1,2 @@
-# BasswaveMusicPLayer
+# BasswaveMusicPlayer
 Music player application
